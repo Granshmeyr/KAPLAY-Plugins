@@ -1,6 +1,6 @@
 ## KAPLAY-Plugins
 
-***TODO***: Create documentation describing the usage of my existing plugins. Also for how to create a plugin.
+***TODO***: Document plugin usage & plugin creation process
 
 A collection of plugins used for games I develop in the [KAPLAY](https://kaplayjs.com/) game library.
 
