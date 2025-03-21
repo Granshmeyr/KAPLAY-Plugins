@@ -1,1 +1,1 @@
-export { grindleSprite } from "./internal/grindleSprite.ts"
+export { grindleSprite } from "./noautoimport/grindleSprite.ts"

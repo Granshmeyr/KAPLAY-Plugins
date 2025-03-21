@@ -1,2 +1,2 @@
-export { grindleUtil } from "./internal/grindleUtil.ts"
-export type { GrindleUtil } from "./internal/types"
+export { grindleUtil } from "./noautoimport/grindleUtil.ts"
+export type { GrindleUtil } from "./noautoimport/types.d.ts"

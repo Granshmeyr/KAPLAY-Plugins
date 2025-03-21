@@ -1,1 +1,1 @@
-export { grindleConst } from "./internal/grindleConst.ts"
+export { grindleConst } from "./noautoimport/grindleConst.ts"

@@ -1,2 +1,2 @@
-export { grindleComp } from "./internal/grindleComp.ts"
-export type { GrindleComp } from "./internal/types.d.ts"
+export { grindleComp } from "./noautoimport/grindleComp.ts"
+export type { GrindleComp } from "./noautoimport/types.d.ts"

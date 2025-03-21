@@ -1,0 +1,32 @@
+{
+    "name": "kaplay-plugins",
+    "version": "1.0.0",
+    "description": "***TODO***: Document plugin usage & plugin creation process",
+    "type": "module",
+    "main": "eslint.config.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Granshmeyr/KAPLAY-Plugins.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Granshmeyr/KAPLAY-Plugins/issues"
+    },
+    "homepage": "https://github.com/Granshmeyr/KAPLAY-Plugins#readme",
+    "devDependencies": {
+        "eslint-config-prettier": "^10.1.1",
+        "eslint-plugin-es-x": "^8.6.1",
+        "eslint-plugin-filename-export": "^1.0.4",
+        "eslint-plugin-import": "^2.31.0",
+        "eslint-plugin-unused-imports": "^4.1.4",
+        "kaplay": "^4000.0.0-alpha.16",
+        "svg-path-commander": "^2.1.10",
+        "typescript": "^5.8.2",
+        "typescript-eslint": "^8.27.0"
+    }
+}

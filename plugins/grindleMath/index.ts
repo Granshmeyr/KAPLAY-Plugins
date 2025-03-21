@@ -1,2 +1,2 @@
-export { grindleMath } from "./internal/grindleMath.ts"
-export type { GrindleMath } from "./internal/types.d.ts"
+export { grindleMath } from "./noautoimport/grindleMath.ts"
+export type { GrindleMath } from "./noautoimport/types.d.ts"
